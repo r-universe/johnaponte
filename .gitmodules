@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "afdx"]
+	path = afdx
+	url = https://github.com/johnaponte/afdx
+	shallow = true
+	registered = true
+[submodule "convdistr"]
+	path = convdistr
+	url = https://github.com/johnaponte/convdistr
+	shallow = true
+	registered = true
+[submodule "repana"]
+	path = repana
+	url = https://github.com/johnaponte/repana
+	shallow = true
+	registered = true

@@ -1,0 +1,14 @@
+[
+  {
+    "package": "afdx",
+    "oncran": true
+  },
+  {
+    "package": "convdistr",
+    "oncran": true
+  },
+  {
+    "package": "repana",
+    "oncran": true
+  }
+]
