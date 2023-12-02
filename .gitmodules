@@ -11,3 +11,6 @@
 [submodule "repana"]
 	path = repana
 	url = https://github.com/johnaponte/repana
+[submodule "survobj"]
+	path = survobj
+	url = https://github.com/johnaponte/survobj
